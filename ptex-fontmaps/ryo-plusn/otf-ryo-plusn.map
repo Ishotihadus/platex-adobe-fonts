@@ -2,79 +2,79 @@
 % TEXT, 90JIS
 hminl-h	H	.25386.otf %!PS RyoTextPlusN-Light
 hminl-v	V	.25386.otf %!PS RyoTextPlusN-Light
-hminr-h	H	.25386.otf %!PS RyoTextPlusN-Light
-hminr-v	V	.25386.otf %!PS RyoTextPlusN-Light
+hminr-h	H	.25359.otf %!PS RyoTextPlusN-Regular
+hminr-v	V	.25359.otf %!PS RyoTextPlusN-Regular
 hminb-h	H	.14536.otf %!PS RyoDispPlusN-Bold
 hminb-v	V	.14536.otf %!PS RyoDispPlusN-Bold
 hgothr-h	H	.25372.otf %!PS RyoGothicPlusN-Medium
 hgothr-v	V	.25372.otf %!PS RyoGothicPlusN-Medium
 hgothb-h	H	.25376.otf %!PS RyoGothicPlusN-Bold
 hgothb-v	V	.25376.otf %!PS RyoGothicPlusN-Bold
-hgotheb-h	H	.25384.otf %!PS RyoDispPlusN-Heavy
-hgotheb-v	V	.25384.otf %!PS RyoDispPlusN-Heavy
+hgotheb-h	H	.25374.otf %!PS RyoGothicPlusN-Heavy
+hgotheb-v	V	.25374.otf %!PS RyoGothicPlusN-Heavy
 hmgothr-h	H	.35669.otf %!PS SeuratProN-DB
 hmgothr-v	V	.35669.otf %!PS SeuratProN-DB
 
 % TEXT, JIS04
 hminln-h	H	.25386.otf %!PS RyoTextPlusN-Light
 hminln-v	V	.25386.otf %!PS RyoTextPlusN-Light
-hminrn-h	H	.25386.otf %!PS RyoTextPlusN-Light
-hminrn-v	V	.25386.otf %!PS RyoTextPlusN-Light
+hminrn-h	H	.25359.otf %!PS RyoTextPlusN-Regular
+hminrn-v	V	.25359.otf %!PS RyoTextPlusN-Regular
 hminbn-h	H	.14536.otf %!PS RyoDispPlusN-Bold
 hminbn-v	V	.14536.otf %!PS RyoDispPlusN-Bold
 hgothrn-h	H	.25372.otf %!PS RyoGothicPlusN-Medium
 hgothrn-v	V	.25372.otf %!PS RyoGothicPlusN-Medium
 hgothbn-h	H	.25376.otf %!PS RyoGothicPlusN-Bold
 hgothbn-v	V	.25376.otf %!PS RyoGothicPlusN-Bold
-hgothebn-h	H	.25384.otf %!PS RyoDispPlusN-Heavy
-hgothebn-v	V	.25384.otf %!PS RyoDispPlusN-Heavy
+hgothebn-h	H	.25374.otf %!PS RyoGothicPlusN-Heavy
+hgothebn-v	V	.25374.otf %!PS RyoGothicPlusN-Heavy
 hmgothrn-h	H	.35669.otf %!PS SeuratProN-DB
 hmgothrn-v	V	.35669.otf %!PS SeuratProN-DB
 
 % CID
 otf-cjml-h	Identity-H	.25386.otf %!PS RyoTextPlusN-Light
 otf-cjml-v	Identity-V	.25386.otf %!PS RyoTextPlusN-Light
-otf-cjmr-h	Identity-H	.25386.otf %!PS RyoTextPlusN-Light
-otf-cjmr-v	Identity-V	.25386.otf %!PS RyoTextPlusN-Light
+otf-cjmr-h	Identity-H	.25359.otf %!PS RyoTextPlusN-Regular
+otf-cjmr-v	Identity-V	.25359.otf %!PS RyoTextPlusN-Regular
 otf-cjmb-h	Identity-H	.14536.otf %!PS RyoDispPlusN-Bold
 otf-cjmb-v	Identity-V	.14536.otf %!PS RyoDispPlusN-Bold
 otf-cjgr-h	Identity-H	.25372.otf %!PS RyoGothicPlusN-Medium
 otf-cjgr-v	Identity-V	.25372.otf %!PS RyoGothicPlusN-Medium
 otf-cjgb-h	Identity-H	.25376.otf %!PS RyoGothicPlusN-Bold
 otf-cjgb-v	Identity-V	.25376.otf %!PS RyoGothicPlusN-Bold
-otf-cjge-h	Identity-H	.25384.otf %!PS RyoDispPlusN-Heavy
-otf-cjge-v	Identity-V	.25384.otf %!PS RyoDispPlusN-Heavy
+otf-cjge-h	Identity-H	.25374.otf %!PS RyoGothicPlusN-Heavy
+otf-cjge-v	Identity-V	.25374.otf %!PS RyoGothicPlusN-Heavy
 otf-cjmgr-h	Identity-H	.35669.otf %!PS SeuratProN-DB
 otf-cjmgr-v	Identity-V	.35669.otf %!PS SeuratProN-DB
 
 % Unicode 90JIS
 otf-ujml-h	UniJIS-UTF16-H	.25386.otf %!PS RyoTextPlusN-Light
 otf-ujml-v	UniJIS-UTF16-V	.25386.otf %!PS RyoTextPlusN-Light
-otf-ujmr-h	UniJIS-UTF16-H	.25386.otf %!PS RyoTextPlusN-Light
-otf-ujmr-v	UniJIS-UTF16-V	.25386.otf %!PS RyoTextPlusN-Light
+otf-ujmr-h	UniJIS-UTF16-H	.25359.otf %!PS RyoTextPlusN-Regular
+otf-ujmr-v	UniJIS-UTF16-V	.25359.otf %!PS RyoTextPlusN-Regular
 otf-ujmb-h	UniJIS-UTF16-H	.14536.otf %!PS RyoDispPlusN-Bold
 otf-ujmb-v	UniJIS-UTF16-V	.14536.otf %!PS RyoDispPlusN-Bold
 otf-ujgr-h	UniJIS-UTF16-H	.25372.otf %!PS RyoGothicPlusN-Medium
 otf-ujgr-v	UniJIS-UTF16-V	.25372.otf %!PS RyoGothicPlusN-Medium
 otf-ujgb-h	UniJIS-UTF16-H	.25376.otf %!PS RyoGothicPlusN-Bold
 otf-ujgb-v	UniJIS-UTF16-V	.25376.otf %!PS RyoGothicPlusN-Bold
-otf-ujge-h	UniJIS-UTF16-H	.25384.otf %!PS RyoDispPlusN-Heavy
-otf-ujge-v	UniJIS-UTF16-V	.25384.otf %!PS RyoDispPlusN-Heavy
+otf-ujge-h	UniJIS-UTF16-H	.25374.otf %!PS RyoGothicPlusN-Heavy
+otf-ujge-v	UniJIS-UTF16-V	.25374.otf %!PS RyoGothicPlusN-Heavy
 otf-ujmgr-h	UniJIS-UTF16-H	.35669.otf %!PS SeuratProN-DB
 otf-ujmgr-v	UniJIS-UTF16-V	.35669.otf %!PS SeuratProN-DB
 
 % Unicode JIS04
 otf-ujmln-h	UniJIS2004-UTF16-H	.25386.otf %!PS RyoTextPlusN-Light
 otf-ujmln-v	UniJIS2004-UTF16-V	.25386.otf %!PS RyoTextPlusN-Light
-otf-ujmrn-h	UniJIS2004-UTF16-H	.25386.otf %!PS RyoTextPlusN-Light
-otf-ujmrn-v	UniJIS2004-UTF16-V	.25386.otf %!PS RyoTextPlusN-Light
+otf-ujmrn-h	UniJIS2004-UTF16-H	.25359.otf %!PS RyoTextPlusN-Regular
+otf-ujmrn-v	UniJIS2004-UTF16-V	.25359.otf %!PS RyoTextPlusN-Regular
 otf-ujmbn-h	UniJIS2004-UTF16-H	.14536.otf %!PS RyoDispPlusN-Bold
 otf-ujmbn-v	UniJIS2004-UTF16-V	.14536.otf %!PS RyoDispPlusN-Bold
 otf-ujgrn-h	UniJIS2004-UTF16-H	.25372.otf %!PS RyoGothicPlusN-Medium
 otf-ujgrn-v	UniJIS2004-UTF16-V	.25372.otf %!PS RyoGothicPlusN-Medium
 otf-ujgbn-h	UniJIS2004-UTF16-H	.25376.otf %!PS RyoGothicPlusN-Bold
 otf-ujgbn-v	UniJIS2004-UTF16-V	.25376.otf %!PS RyoGothicPlusN-Bold
-otf-ujgen-h	UniJIS2004-UTF16-H	.25384.otf %!PS RyoDispPlusN-Heavy
-otf-ujgen-v	UniJIS2004-UTF16-V	.25384.otf %!PS RyoDispPlusN-Heavy
+otf-ujgen-h	UniJIS2004-UTF16-H	.25374.otf %!PS RyoGothicPlusN-Heavy
+otf-ujgen-v	UniJIS2004-UTF16-V	.25374.otf %!PS RyoGothicPlusN-Heavy
 otf-ujmgrn-h	UniJIS2004-UTF16-H	.35669.otf %!PS SeuratProN-DB
 otf-ujmgrn-v	UniJIS2004-UTF16-V	.35669.otf %!PS SeuratProN-DB
