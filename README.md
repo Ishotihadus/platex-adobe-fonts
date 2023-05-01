@@ -1,4 +1,4 @@
-# Adobe Fonts for LaTeX
+# Adobe Fonts for pLaTeX & upLaTeX
 
 Adobe Fonts の日本語フォントを pLaTeX / upLaTeX で使えるようにするためのスクリプトなど。
 
