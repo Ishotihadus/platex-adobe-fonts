@@ -1,0 +1,80 @@
+
+% TEXT, 90JIS
+hminl-h	H	.35694.otf %!PS DNPShueiMinPr6N-L
+hminl-v	V	.35694.otf %!PS DNPShueiMinPr6N-L
+hminr-h	H	.35694.otf %!PS DNPShueiMinPr6N-L
+hminr-v	V	.35694.otf %!PS DNPShueiMinPr6N-L
+hminb-h	H	.35696.otf %!PS DNPShueiMinPr6N-B
+hminb-v	V	.35696.otf %!PS DNPShueiMinPr6N-B
+hgothr-h	H	.35685.otf %!PS DNPShueiGoKinStd-M
+hgothr-v	V	.35685.otf %!PS DNPShueiGoKinStd-M
+hgothb-h	H	.35686.otf %!PS DNPShueiGoKinStd-B
+hgothb-v	V	.35686.otf %!PS DNPShueiGoKinStd-B
+hgotheb-h	H	.35678.otf %!PS DNPShuei4goBStd-Hv
+hgotheb-v	V	.35678.otf %!PS DNPShuei4goBStd-Hv
+hmgothr-h	H	.35687.otf %!PS DNPShueiMGoStd-L
+hmgothr-v	V	.35687.otf %!PS DNPShueiMGoStd-L
+
+% TEXT, JIS04
+hminln-h	H	.35694.otf %!PS DNPShueiMinPr6N-L
+hminln-v	V	.35694.otf %!PS DNPShueiMinPr6N-L
+hminrn-h	H	.35694.otf %!PS DNPShueiMinPr6N-L
+hminrn-v	V	.35694.otf %!PS DNPShueiMinPr6N-L
+hminbn-h	H	.35696.otf %!PS DNPShueiMinPr6N-B
+hminbn-v	V	.35696.otf %!PS DNPShueiMinPr6N-B
+hgothrn-h	H	.35685.otf %!PS DNPShueiGoKinStd-M
+hgothrn-v	V	.35685.otf %!PS DNPShueiGoKinStd-M
+hgothbn-h	H	.35686.otf %!PS DNPShueiGoKinStd-B
+hgothbn-v	V	.35686.otf %!PS DNPShueiGoKinStd-B
+hgothebn-h	H	.35678.otf %!PS DNPShuei4goBStd-Hv
+hgothebn-v	V	.35678.otf %!PS DNPShuei4goBStd-Hv
+hmgothrn-h	H	.35687.otf %!PS DNPShueiMGoStd-L
+hmgothrn-v	V	.35687.otf %!PS DNPShueiMGoStd-L
+
+% CID
+otf-cjml-h	Identity-H	.35694.otf %!PS DNPShueiMinPr6N-L
+otf-cjml-v	Identity-V	.35694.otf %!PS DNPShueiMinPr6N-L
+otf-cjmr-h	Identity-H	.35694.otf %!PS DNPShueiMinPr6N-L
+otf-cjmr-v	Identity-V	.35694.otf %!PS DNPShueiMinPr6N-L
+otf-cjmb-h	Identity-H	.35696.otf %!PS DNPShueiMinPr6N-B
+otf-cjmb-v	Identity-V	.35696.otf %!PS DNPShueiMinPr6N-B
+otf-cjgr-h	Identity-H	.35685.otf %!PS DNPShueiGoKinStd-M
+otf-cjgr-v	Identity-V	.35685.otf %!PS DNPShueiGoKinStd-M
+otf-cjgb-h	Identity-H	.35686.otf %!PS DNPShueiGoKinStd-B
+otf-cjgb-v	Identity-V	.35686.otf %!PS DNPShueiGoKinStd-B
+otf-cjge-h	Identity-H	.35678.otf %!PS DNPShuei4goBStd-Hv
+otf-cjge-v	Identity-V	.35678.otf %!PS DNPShuei4goBStd-Hv
+otf-cjmgr-h	Identity-H	.35687.otf %!PS DNPShueiMGoStd-L
+otf-cjmgr-v	Identity-V	.35687.otf %!PS DNPShueiMGoStd-L
+
+% Unicode 90JIS
+otf-ujml-h	UniJIS-UTF16-H	.35694.otf %!PS DNPShueiMinPr6N-L
+otf-ujml-v	UniJIS-UTF16-V	.35694.otf %!PS DNPShueiMinPr6N-L
+otf-ujmr-h	UniJIS-UTF16-H	.35694.otf %!PS DNPShueiMinPr6N-L
+otf-ujmr-v	UniJIS-UTF16-V	.35694.otf %!PS DNPShueiMinPr6N-L
+otf-ujmb-h	UniJIS-UTF16-H	.35696.otf %!PS DNPShueiMinPr6N-B
+otf-ujmb-v	UniJIS-UTF16-V	.35696.otf %!PS DNPShueiMinPr6N-B
+otf-ujgr-h	UniJIS-UTF16-H	.35685.otf %!PS DNPShueiGoKinStd-M
+otf-ujgr-v	UniJIS-UTF16-V	.35685.otf %!PS DNPShueiGoKinStd-M
+otf-ujgb-h	UniJIS-UTF16-H	.35686.otf %!PS DNPShueiGoKinStd-B
+otf-ujgb-v	UniJIS-UTF16-V	.35686.otf %!PS DNPShueiGoKinStd-B
+otf-ujge-h	UniJIS-UTF16-H	.35678.otf %!PS DNPShuei4goBStd-Hv
+otf-ujge-v	UniJIS-UTF16-V	.35678.otf %!PS DNPShuei4goBStd-Hv
+otf-ujmgr-h	UniJIS-UTF16-H	.35687.otf %!PS DNPShueiMGoStd-L
+otf-ujmgr-v	UniJIS-UTF16-V	.35687.otf %!PS DNPShueiMGoStd-L
+
+% Unicode JIS04
+otf-ujmln-h	UniJIS2004-UTF16-H	.35694.otf %!PS DNPShueiMinPr6N-L
+otf-ujmln-v	UniJIS2004-UTF16-V	.35694.otf %!PS DNPShueiMinPr6N-L
+otf-ujmrn-h	UniJIS2004-UTF16-H	.35694.otf %!PS DNPShueiMinPr6N-L
+otf-ujmrn-v	UniJIS2004-UTF16-V	.35694.otf %!PS DNPShueiMinPr6N-L
+otf-ujmbn-h	UniJIS2004-UTF16-H	.35696.otf %!PS DNPShueiMinPr6N-B
+otf-ujmbn-v	UniJIS2004-UTF16-V	.35696.otf %!PS DNPShueiMinPr6N-B
+otf-ujgrn-h	UniJIS2004-UTF16-H	.35685.otf %!PS DNPShueiGoKinStd-M
+otf-ujgrn-v	UniJIS2004-UTF16-V	.35685.otf %!PS DNPShueiGoKinStd-M
+otf-ujgbn-h	UniJIS2004-UTF16-H	.35686.otf %!PS DNPShueiGoKinStd-B
+otf-ujgbn-v	UniJIS2004-UTF16-V	.35686.otf %!PS DNPShueiGoKinStd-B
+otf-ujgen-h	UniJIS2004-UTF16-H	.35678.otf %!PS DNPShuei4goBStd-Hv
+otf-ujgen-v	UniJIS2004-UTF16-V	.35678.otf %!PS DNPShuei4goBStd-Hv
+otf-ujmgrn-h	UniJIS2004-UTF16-H	.35687.otf %!PS DNPShueiMGoStd-L
+otf-ujmgrn-v	UniJIS2004-UTF16-V	.35687.otf %!PS DNPShueiMGoStd-L

@@ -1,0 +1,1 @@
+OPENTYPEFONTS = $TEXMFDOTDIR;$TEXMF/fonts/{opentype,truetype}//;$OSFONTDIR//;~/Library/Application Support/Adobe/CoreSync/plugins/livetype/.{r,w}//

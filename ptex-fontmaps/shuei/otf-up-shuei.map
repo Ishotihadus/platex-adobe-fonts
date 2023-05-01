@@ -1,0 +1,32 @@
+
+% TEXT, 90JIS
+uphminl-h	UniJIS-UTF16-H	.35694.otf %!PS DNPShueiMinPr6N-L
+uphminl-v	UniJIS-UTF16-V	.35694.otf %!PS DNPShueiMinPr6N-L
+uphminr-h	UniJIS-UTF16-H	.35694.otf %!PS DNPShueiMinPr6N-L
+uphminr-v	UniJIS-UTF16-V	.35694.otf %!PS DNPShueiMinPr6N-L
+uphminb-h	UniJIS-UTF16-H	.35696.otf %!PS DNPShueiMinPr6N-B
+uphminb-v	UniJIS-UTF16-V	.35696.otf %!PS DNPShueiMinPr6N-B
+uphgothr-h	UniJIS-UTF16-H	.35685.otf %!PS DNPShueiGoKinStd-M
+uphgothr-v	UniJIS-UTF16-V	.35685.otf %!PS DNPShueiGoKinStd-M
+uphgothb-h	UniJIS-UTF16-H	.35686.otf %!PS DNPShueiGoKinStd-B
+uphgothb-v	UniJIS-UTF16-V	.35686.otf %!PS DNPShueiGoKinStd-B
+uphgotheb-h	UniJIS-UTF16-H	.35678.otf %!PS DNPShuei4goBStd-Hv
+uphgotheb-v	UniJIS-UTF16-V	.35678.otf %!PS DNPShuei4goBStd-Hv
+uphmgothr-h	UniJIS-UTF16-H	.35687.otf %!PS DNPShueiMGoStd-L
+uphmgothr-v	UniJIS-UTF16-V	.35687.otf %!PS DNPShueiMGoStd-L
+
+% TEXT, JIS04
+uphminln-h	UniJIS2004-UTF16-H	.35694.otf %!PS DNPShueiMinPr6N-L
+uphminln-v	UniJIS2004-UTF16-V	.35694.otf %!PS DNPShueiMinPr6N-L
+uphminrn-h	UniJIS2004-UTF16-H	.35694.otf %!PS DNPShueiMinPr6N-L
+uphminrn-v	UniJIS2004-UTF16-V	.35694.otf %!PS DNPShueiMinPr6N-L
+uphminbn-h	UniJIS2004-UTF16-H	.35696.otf %!PS DNPShueiMinPr6N-B
+uphminbn-v	UniJIS2004-UTF16-V	.35696.otf %!PS DNPShueiMinPr6N-B
+uphgothrn-h	UniJIS2004-UTF16-H	.35685.otf %!PS DNPShueiGoKinStd-M
+uphgothrn-v	UniJIS2004-UTF16-V	.35685.otf %!PS DNPShueiGoKinStd-M
+uphgothbn-h	UniJIS2004-UTF16-H	.35686.otf %!PS DNPShueiGoKinStd-B
+uphgothbn-v	UniJIS2004-UTF16-V	.35686.otf %!PS DNPShueiGoKinStd-B
+uphgothebn-h	UniJIS2004-UTF16-H	.35678.otf %!PS DNPShuei4goBStd-Hv
+uphgothebn-v	UniJIS2004-UTF16-V	.35678.otf %!PS DNPShuei4goBStd-Hv
+uphmgothrn-h	UniJIS2004-UTF16-H	.35687.otf %!PS DNPShueiMGoStd-L
+uphmgothrn-v	UniJIS2004-UTF16-V	.35687.otf %!PS DNPShueiMGoStd-L

@@ -1,0 +1,32 @@
+
+% TEXT, 90JIS
+uphminl-h	UniJIS-UTF16-H	.25386.otf %!PS RyoTextPlusN-Light
+uphminl-v	UniJIS-UTF16-V	.25386.otf %!PS RyoTextPlusN-Light
+uphminr-h	UniJIS-UTF16-H	.25386.otf %!PS RyoTextPlusN-Light
+uphminr-v	UniJIS-UTF16-V	.25386.otf %!PS RyoTextPlusN-Light
+uphminb-h	UniJIS-UTF16-H	.14536.otf %!PS RyoDispPlusN-Bold
+uphminb-v	UniJIS-UTF16-V	.14536.otf %!PS RyoDispPlusN-Bold
+uphgothr-h	UniJIS-UTF16-H	.25372.otf %!PS RyoGothicPlusN-Medium
+uphgothr-v	UniJIS-UTF16-V	.25372.otf %!PS RyoGothicPlusN-Medium
+uphgothb-h	UniJIS-UTF16-H	.25376.otf %!PS RyoGothicPlusN-Bold
+uphgothb-v	UniJIS-UTF16-V	.25376.otf %!PS RyoGothicPlusN-Bold
+uphgotheb-h	UniJIS-UTF16-H	.25384.otf %!PS RyoDispPlusN-Heavy
+uphgotheb-v	UniJIS-UTF16-V	.25384.otf %!PS RyoDispPlusN-Heavy
+uphmgothr-h	UniJIS-UTF16-H	.35669.otf %!PS SeuratProN-DB
+uphmgothr-v	UniJIS-UTF16-V	.35669.otf %!PS SeuratProN-DB
+
+% TEXT, JIS04
+uphminln-h	UniJIS2004-UTF16-H	.25386.otf %!PS RyoTextPlusN-Light
+uphminln-v	UniJIS2004-UTF16-V	.25386.otf %!PS RyoTextPlusN-Light
+uphminrn-h	UniJIS2004-UTF16-H	.25386.otf %!PS RyoTextPlusN-Light
+uphminrn-v	UniJIS2004-UTF16-V	.25386.otf %!PS RyoTextPlusN-Light
+uphminbn-h	UniJIS2004-UTF16-H	.14536.otf %!PS RyoDispPlusN-Bold
+uphminbn-v	UniJIS2004-UTF16-V	.14536.otf %!PS RyoDispPlusN-Bold
+uphgothrn-h	UniJIS2004-UTF16-H	.25372.otf %!PS RyoGothicPlusN-Medium
+uphgothrn-v	UniJIS2004-UTF16-V	.25372.otf %!PS RyoGothicPlusN-Medium
+uphgothbn-h	UniJIS2004-UTF16-H	.25376.otf %!PS RyoGothicPlusN-Bold
+uphgothbn-v	UniJIS2004-UTF16-V	.25376.otf %!PS RyoGothicPlusN-Bold
+uphgothebn-h	UniJIS2004-UTF16-H	.25384.otf %!PS RyoDispPlusN-Heavy
+uphgothebn-v	UniJIS2004-UTF16-V	.25384.otf %!PS RyoDispPlusN-Heavy
+uphmgothrn-h	UniJIS2004-UTF16-H	.35669.otf %!PS SeuratProN-DB
+uphmgothrn-v	UniJIS2004-UTF16-V	.35669.otf %!PS SeuratProN-DB
